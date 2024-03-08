@@ -14,7 +14,7 @@
 
 ### How to import the Rubik's library
 
-``` bash
+``` python
 from arsein import Messenger
 
 Or
