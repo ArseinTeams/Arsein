@@ -24,7 +24,7 @@ from arsein import Robot_Rubika
 
 ### How to import the anti-advertising class
 
-``` bash
+``` python
 from arsein.Zedcontent import Antiadvertisement
 ```
 
